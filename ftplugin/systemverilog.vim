@@ -1,12 +1,13 @@
 " *****************************************************************************
 "                 Copyright (C) 2025, Bruce Wang. All Rights Reserved
 "
-"   FileName:   verilog.vim
+"   FileName:   systemverilog.vim
 "   Desc:       some setting for verilog/systemverilog
 "   Author:     Bruce Wang
 "   Email:      wjwyyjr@gmail.com
-"   LastChange: 2025-05-11 02:59:16
+"   LastChange: 2025-05-11 03:25:42
 "   History:    2025-05-11 Create by Bruce Wang
+"               2025-05-11 Modify by Bruce Wang
 " *****************************************************************************
 " Plug: verilog_systemverilog
 nnoremap <leader>u :VerilogGotoInstanceStart<CR>
